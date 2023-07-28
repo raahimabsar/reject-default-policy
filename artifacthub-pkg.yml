@@ -5,9 +5,9 @@
 ###
 version: 0.1.0
 name: reject-default-policy
-displayName: LIKE NAME, BUT FANCIER
+displayName: Reject Default Namespace
 createdAt: '2022-07-19T16:39:10+02:00'
-description: DESCRIPTION OF YOUR POLICY
+description: This policy rejects the creation of pods in default namespace
 license: Apache-2.0
 homeURL: https://author1.website
 containersImages:
