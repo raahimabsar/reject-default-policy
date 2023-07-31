@@ -12,14 +12,14 @@ license: Apache-2.0
 homeURL: https://author1.website
 containersImages:
 - name: policy
-  image: "ghcr.io/kubewarden/policies/reject-default-policy:v0.1.0"
+  image: "https://ghcr.io/raahimabsar/reject-default-policy"
 keywords:
 - this is freeform
 links:
 - name: policy
-  url: https://github.com/yourorg/reject-default-policy/releases/download/v0.1.0/policy.wasm
+  url: https://github.com/raahimabsar/reject-default-policy/releases/download/v0.1.0/policy.wasm
 - name: source
-  url: POLICY HOMEPAGE URL
+  url: https://github.com/raahimabsar/reject-default-policy
 provider:
   name: kubewarden
 recommendations:
