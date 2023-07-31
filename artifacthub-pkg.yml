@@ -12,7 +12,7 @@ license: Apache-2.0
 homeURL: https://author1.website
 containersImages:
 - name: policy
-  image: "https://ghcr.io/raahimabsar/reject-default-policy"
+  image: "ghcr.io/raahimabsar/reject-default-policy:v0.1.0"
 keywords:
 - this is freeform
 links:
